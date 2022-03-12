@@ -1,0 +1,12 @@
+{
+    "addons": {
+      "{84941cec-25f4-4afd-9893-e2235c61347f}": {
+        "updates": [
+            {
+                "version": "0.0.1",
+                "update_link": "https://ccg-info.jp/teams/glexa/GlexaFullscreenButton.xpi"
+            }
+        ]
+      }
+    }
+  }
